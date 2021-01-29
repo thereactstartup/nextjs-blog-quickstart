@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-blog-quick-start",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "classnames": "2.2.6",
+    "date-fns": "2.10.0",
+    "moment": "^2.29.1",
+    "next": "latest",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.13.0",
+    "react-icons": "^3.11.0"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.4.6"
+  }
+}
